@@ -1,7 +1,7 @@
 import smtplib
 import time
 
-smtpserver = smtplib.SMTP("smtp.mail.yahoo.com", 587)   
+smtpserver = smtplib.SMTP("g69dollaz1@yahoo.com", 587)   
 smtpserver.ehlo() # Says hello to the smtp server
 smtpserver.starttls()
 
